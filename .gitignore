@@ -1,0 +1,13 @@
+api/runtime
+.idea
+api/*env
+/api/public/uploads
+/api/public/agent/
+/api/public/mobile/
+/we7/public/uploads
+/we7/public/agent/
+/we7/public/mobile/
+.htaccess
+nginx.htaccess
+dist
+node_modules/
